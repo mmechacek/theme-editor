@@ -1,0 +1,1 @@
+export { drawerWidth } from "./config";
